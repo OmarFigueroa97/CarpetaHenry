@@ -1,0 +1,1 @@
+Ejemplo de como crear un repositorio y podelo sincronizar con la carpeta "CarpetaHenry" con este nuevo repositorio.
